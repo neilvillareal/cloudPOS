@@ -12,7 +12,6 @@ C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\DotNetOpenAuth.Op
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\EntityFramework.dll
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\EntityFramework.SqlServer.dll
-C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\itextsharp.dll
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\Microsoft.AspNet.Membership.OpenAuth.dll
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Neil Villareal\Documents\GitHub\cloudPOS\cloudPOS\bin\Microsoft.Web.Mvc.dll

@@ -1,6 +1,7 @@
 ﻿<%@ Page Language="vb" MasterPageFile="~/Dashboard.Master" AutoEventWireup="false" CodeBehind="pos.aspx.vb" Inherits="cloudPOS.pos" %>
 
 <asp:Content runat="server" ID="DashContent" ContentPlaceHolderID="DashContent">
+    <br /><br />
     <div class="col-md-6">
         <div class="panel panel-primary">
 	        <div class="panel-heading">

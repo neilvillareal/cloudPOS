@@ -40,10 +40,10 @@
 	        <div class="panel-body">
                 <asp:Label ID="Label1" runat="server" Text="Category"></asp:Label>
 		        <asp:TextBox ID="txtCatName" Cssclass="form-control col-md-12" runat="server"></asp:TextBox>
-                <br />
+                <br /><br />
                 <asp:Label ID="Label2" runat="server" Text="Description"></asp:Label>
                 <asp:TextBox ID="txtDesc" Cssclass="form-control col-md-12" runat="server"></asp:TextBox>
-                <br /><br />
+                <br /><br /><br />
                 <asp:Button ID="btnAddCat" Cssclass="btn btn-md btn-danger" runat="server" Text="Add Category" />
                 <br /><br />
                 <asp:Panel ID="pnErr" runat="server" CssClass="alert alert-danger" Visible="False">

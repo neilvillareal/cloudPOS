@@ -57,9 +57,6 @@
     <Reference Include="EntityFramework.SqlServer">
       <HintPath>..\packages\EntityFramework.6.0.2\lib\net40\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
-    <Reference Include="itextsharp">
-      <HintPath>.\itextsharp.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Web.Mvc">
       <HintPath>..\packages\Mvc4Futures.4.0.20710.0\lib\net40\Microsoft.Web.Mvc.dll</HintPath>
     </Reference>
@@ -275,7 +272,6 @@
     <Content Include="less\wells.less" />
     <Content Include="Dashboard.Master" />
     <Content Include="pos.aspx" />
-    <Content Include="print_reports.aspx" />
     <Content Include="reports.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -443,13 +439,6 @@
     </Compile>
     <Compile Include="pos.aspx.vb">
       <DependentUpon>pos.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="print_reports.aspx.designer.vb">
-      <DependentUpon>print_reports.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="print_reports.aspx.vb">
-      <DependentUpon>print_reports.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="reports.aspx.designer.vb">
